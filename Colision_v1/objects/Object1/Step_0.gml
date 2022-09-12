@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+// prueba de github
 if keyboard_check(vk_left) and place_free(x-8,y) {
 	x = x-8;	
 }
